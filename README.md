@@ -27,7 +27,7 @@ Link to visit site:- https://pai-internationalclone.herokuapp.com/
 
 ## Technology used
 
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png"" height="100px" />
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="100px" />
 
 ## Functionality
 * Product page
